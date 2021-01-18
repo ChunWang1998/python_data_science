@@ -2,7 +2,15 @@
 1/24 前交munging process report(相關影片在13回)
 1/28 報告(五分鐘,老師會分小組,討論完要給feedback)
 
-explorarity: class10 有教
+include link(title link explaination,expecting)
+kaggle
 
+1/13在data.world 找到dataset(2016/10/17),可以開始進行分析
+分析方式參考"Exploratory analysis refer"
 可以先列出資料有那些問題(奇怪的數值,缺失的數值...)
-個別處理
+再個別處理
+
+
+
+
+
